@@ -1,0 +1,22 @@
+{
+  "commentList": [
+    {
+      "comment": "This is an existing topic",
+      "likes": 8,
+      "dislikes": 2,
+      "id": 1
+    },
+    {
+      "comment": "test",
+      "likes": 3,
+      "dislikes": 5,
+      "id": 2
+    },
+    {
+      "comment": "test",
+      "likes": 1,
+      "dislikes": 0,
+      "id": 3
+    }
+  ]
+}
